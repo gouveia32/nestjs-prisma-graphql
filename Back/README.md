@@ -1,2 +1,1 @@
-# nestjs-automated-testing-youtube
-Nestjs Automated Testing Youtube
+Nestjs Prisma Graphql Fullstack
