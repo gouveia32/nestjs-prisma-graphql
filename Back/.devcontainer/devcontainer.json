@@ -1,0 +1,9 @@
+{
+	"name": "NestJS Automated Testing (YouTube)",
+	"dockerComposeFile": [
+		"../docker-compose.yml",
+		"docker-compose.yml"
+	],
+	"service": "api",
+	"workspaceFolder": "/home/node/api"
+}
